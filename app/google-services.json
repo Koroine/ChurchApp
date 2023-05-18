@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343064938508",
+    "project_id": "kmlk-app",
+    "storage_bucket": "kmlk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343064938508:android:c59eee25b3f993ced28629",
+        "android_client_info": {
+          "package_name": "com.elon.kmlkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343064938508-04um25kogrofp639tgs8batuftsu452u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXqpQs18a36s6q9SDg9UEg3GJaf9LfJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343064938508-04um25kogrofp639tgs8batuftsu452u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
